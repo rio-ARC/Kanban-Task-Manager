@@ -4,7 +4,7 @@ A simple, responsive Kanban task management application with an integrated calen
 
 ## Live Demo
 
-[View the live application](https://68b31143f002a9bce5bf6208--kanban-task-board-unique.netlify.app)
+[View the live application](https://kanbantaskmanager-sooty.vercel.app/)
 
 ## Features
 
@@ -57,5 +57,6 @@ The application uses Tailwind CSS classes for styling. You can customize colors,
 Feel free to fork this project and submit pull requests with improvements or bug fixes.
 
 ## License
+
 
 This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
